@@ -55,78 +55,28 @@ configuration.
 demands.
 
 Snap Shot:
+<img width="1920" height="1080" alt="Screenshot 2026-10-30 081713" src="https://github.com/user-attachments/assets/ae0ec7d0-c57e-4c97-88d9-dced3b4cb3b8" />
+<img width="1920" height="1080" alt="Screenshot 2026-10-30 083058" src="https://github.com/user-attachments/assets/e96a5f38-7a25-486c-872e-5e6c912d11d5" />
+<img width="1920" height="1080" alt="Screenshot 2026-10-30 083836" src="https://github.com/user-attachments/assets/418bf584-36fb-465e-926f-e635affa385c" />
+<img width="1920" height="1080" alt="Screenshot 2026-10-30 083924" src="https://github.com/user-attachments/assets/3bfa1b7f-58c6-41bb-8e84-4852ce1e30d8" />
+<img width="1920" height="1080" alt="Screenshot 2026-10-30 084121" src="https://github.com/user-attachments/assets/6daf4b95-0481-45b0-9347-808fd7d2bc41" />
+<img width="1920" height="1080" alt="Screenshot 2026-10-30 084242" src="https://github.com/user-attachments/assets/4f355c7d-25db-413f-88d3-5256572c8a00" />
+<img width="1920" height="1080" alt="Screenshot 2026-10-30 084847" src="https://github.com/user-attachments/assets/6c112986-6885-4900-a636-134ba35b0d78" />
+<img width="1920" height="1080" alt="Screenshot 2026-10-30 085228" src="https://github.com/user-attachments/assets/56ef24aa-6789-494b-b470-3fa2e3bbf0df" />
+<img width="1920" height="1080" alt="Screenshot 2026-10-30 085320" src="https://github.com/user-attachments/assets/aa9f625e-7240-4122-a4a9-a050b7390911" />
+<img width="1920" height="1080" alt="Screenshot 2026-10-30 085339" src="https://github.com/user-attachments/assets/0df4f881-d3ee-4c8e-913f-eb12dbe27235" />
+<img width="1920" height="1080" alt="Screenshot 2026-10-30 085532" src="https://github.com/user-attachments/assets/7d43e569-80d1-46af-a8af-eefd1275e39b" />
+<img width="1920" height="1080" alt="Screenshot 2026-10-30 085849" src="https://github.com/user-attachments/assets/1dc19a4c-87be-44ae-9574-2b51e74d2a33" />
+<img width="1920" height="1080" alt="Screenshot 2026-10-30 085906" src="https://github.com/user-attachments/assets/e679958c-7c24-4c3b-829b-5bfe8cc59e45" />
+<img width="1920" height="1080" alt="Screenshot 2026-10-30 085943" src="https://github.com/user-attachments/assets/8d5f6852-96ca-4f0f-824c-b0b3b059858e" />
+<img width="1920" height="1080" alt="Screenshot 2026-10-30 090023" src="https://github.com/user-attachments/assets/c18f2e33-aeca-4d91-aefe-b24bd6753a3c" />
+<img width="1920" height="1080" alt="Screenshot 2026-10-30 090132" src="https://github.com/user-attachments/assets/53c68ad5-6a22-4c18-80e6-cb9149879941" />
+<img width="1920" height="1080" alt="Screenshot 2026-10-30 090423" src="https://github.com/user-attachments/assets/e3332623-c671-4652-ae5b-980616cf5240" />
+<img width="1920" height="1080" alt="Screenshot 2026-10-30 090631" src="https://github.com/user-attachments/assets/9cbc90e3-e88b-4029-84d1-6c1cf0575f2b" />
+<img width="1920" height="1080" alt="Screenshot 2026-10-30 100905" src="https://github.com/user-attachments/assets/1c6fe845-1433-4c14-a36f-3d01614c3600" />
+<img width="1920" height="1080" alt="Screenshot 2026-10-30 102105" src="https://github.com/user-attachments/assets/d30a31a4-5570-45f0-837c-38436fde59d5" />
+<img width="1920" height="1080" alt="Screenshot 2026-10-30 081555" src="https://github.com/user-attachments/assets/e4278d6f-78c4-4c1f-983d-80002f8b3bc1" />
 
-Snapshot 1: Create VPC
-<img width="1920" height="1080" alt="Screenshot 2026-11-02 102859" src="https://github.com/user-attachments/assets/afbedaa0-9e2d-479e-a371-0bfd7d973ca4" />
-<img width="1920" height="1080" alt="Screenshot 2026-11-02 102909" src="https://github.com/user-attachments/assets/4483bc81-661d-42ab-b3ee-954376a14c46" />
-<img width="1920" height="1080" alt="Screenshot 2026-11-02 103256" src="https://github.com/user-attachments/assets/6af599e2-05b7-4445-a644-022d7bea4f28" />
-
-Snapshot 2: Configuring Subnets
-<img width="1920" height="1080" alt="Screenshot 2026-11-02 104029" src="https://github.com/user-attachments/assets/9d913678-038b-414a-a634-ae9b943988b0" />
-<img width="1920" height="1080" alt="Screenshot 2026-11-02 104205" src="https://github.com/user-attachments/assets/a1ab1379-0594-49ff-824f-71fcfb67abfa" />
-<img width="1920" height="1080" alt="Screenshot 2026-11-02 104259" src="https://github.com/user-attachments/assets/d138a37f-d975-4053-bd94-e4ae6769626a" />
-
- Snapshot 3: Configure Subnets
- <img width="1920" height="1080" alt="Screenshot 2026-11-02 104409" src="https://github.com/user-attachments/assets/b2d771bf-d288-41db-ac0c-036bd9b4eb21" />
-<img width="1920" height="1080" alt="Screenshot 2026-11-02 104420" src="https://github.com/user-attachments/assets/db03dc32-0e77-4a7c-98a3-63d04792587e" />
-<img width="1920" height="1080" alt="Screenshot 2026-11-02 104435" src="https://github.com/user-attachments/assets/bab361dd-aeeb-4966-8ee5-127f1222c2be" />
-
-
-Snapshot 4: Setting Internet gateway
-<img width="1920" height="1080" alt="Screenshot 2026-11-02 104857" src="https://github.com/user-attachments/assets/37219262-6e87-4a88-97da-46df1f48b520" />
-
-<img width="1920" height="1080" alt="Screenshot 2026-11-02 104934" src="https://github.com/user-attachments/assets/9fd1d4eb-37c8-4847-89a0-62bd037fee9b" />
-
-<img width="1920" height="1080" alt="Screenshot 2026-11-02 105442" src="https://github.com/user-attachments/assets/a00d5170-db5c-4e6c-8a31-031babf32454" />
- 
-Snapshot 5: Setting Internet gateway
-
-<img width="1920" height="1080" alt="Screenshot 2026-11-02 110134" src="https://github.com/user-attachments/assets/87da970a-5fe3-488b-94a3-1189b70918dd" />
-
-
-<img width="1920" height="1080" alt="Screenshot 2026-11-02 110335" src="https://github.com/user-attachments/assets/e2d74b5d-a291-43a5-a663-c01001095345" />
- 
-<img width="1920" height="1080" alt="Screenshot 2026-11-02 110419" src="https://github.com/user-attachments/assets/35b8ec3d-f54d-484d-8f29-385b64f17ae5" />
-
-Snapshot 6: Setting Internet gateway
-<img width="1920" height="1080" alt="Screenshot 2026-11-02 110450" src="https://github.com/user-attachments/assets/fe82e33a-03f8-410c-9e86-16386f261707" />
-
-<img width="1920" height="1080" alt="Screenshot 2026-11-02 110508" src="https://github.com/user-attachments/assets/33c48401-c5ad-4832-a03a-1932b204c2b8" />
-
-<img width="1920" height="1080" alt="Screenshot 2026-11-02 110930" src="https://github.com/user-attachments/assets/e64d8502-45ca-4fe9-843f-f3867210ea64" />
- 
-Snapshot 7: Creating route table
-
-<img width="1920" height="1080" alt="Screenshot 2026-11-02 110939" src="https://github.com/user-attachments/assets/299cacae-ae92-4cce-84a7-770677ba0a10" />
-
-<img width="1920" height="1080" alt="Screenshot 2026-11-02 103303" src="https://github.com/user-attachments/assets/2cf5ec29-b12c-404d-b2a4-e07f9f05020b" />
-
-<img width="1920" height="1080" alt="Screenshot 2026-11-02 104029" src="https://github.com/user-attachments/assets/f026c4c9-845b-4aeb-96fa-7cb9f665b95a" />
-
-Snapshot 8: Configuring route table
-<img width="1920" height="1080" alt="Screenshot 2026-11-02 104708" src="https://github.com/user-attachments/assets/43dd6c5f-9769-4bac-9fc9-14244cc72c74" />
-
-<img width="1920" height="1080" alt="Screenshot 2026-11-02 104828" src="https://github.com/user-attachments/assets/6d839a91-f33d-46c2-990f-0955c7495732" />
-
-
-<img width="1920" height="1080" alt="Screenshot 2026-11-02 105001" src="https://github.com/user-attachments/assets/91f225a4-67c7-4a5e-beb7-6760ad730adf" />
-
- 
-Snapshot 9: Editing routes
-<img width="1920" height="1080" alt="Screenshot 2026-11-02 110147" src="https://github.com/user-attachments/assets/c74caac6-8722-4d61-bb45-95b7cd6dd91a" />
-
-
-<img width="1920" height="1080" alt="Screenshot 2026-11-02 110253" src="https://github.com/user-attachments/assets/3edd82f6-bc50-4c49-857b-95b16722d703" />
-
-
-<img width="1920" height="1080" alt="Screenshot 2026-11-02 110314" src="https://github.com/user-attachments/assets/24e97697-1d4e-4251-bbff-f1d63ea1fe59" />
-
-Snapshot 10: Creating route table
-<img width="1920" height="1080" alt="Screenshot 2026-11-02 110657" src="https://github.com/user-attachments/assets/8a71f868-0576-47a4-98b3-8d98f58e7693" />
-
-<img width="1920" height="1080" alt="Screenshot 2026-11-02 110723" src="https://github.com/user-attachments/assets/f8f5807c-2296-4f63-8d92-df1a36cb163d" />
-
-<img width="1920" height="1080" alt="Screenshot 2026-11-02 110733" src="https://github.com/user-attachments/assets/b04dffa7-19a6-4a9e-a37a-0934e2e37b88" />
 
 Result:
 Thus, a  private cloud on AWS involves using VPCs has been created for  a dedicated, isolated network where we can manage our resources and control access according to our requirements.
